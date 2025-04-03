@@ -8,5 +8,5 @@
 - 💬 Ask me about anything concerning about Fullstack Development
 - 📫 How to reach me: kehindewaris54@gmail.com or call me at anytime (+234-807-2496-614)
 - 😄 Pronouns: I, his, him or me abeg 😄
-- ⚡ Fun fact: I love working with React, Next.js, Node.js and Django as a framework
+- ⚡ Fun fact: I love working with FastAPI, Flask, Next.js, Node.js and Django as a framework and React as a library
 
