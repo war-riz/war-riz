@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an amazing project:- Amatip Digital box (All In One Digital Tools Box For Any Online Business)[Amatip Digitalbox] (https://digitalbox.amatip.com/)
+- 🔭 I’m currently working on an amazing project:- Amatip Digital box (All In One Digital Tools Box For Any Online Business) [Amatip Digitalbox] (https://digitalbox.amatip.com/)
 - 🔭 I’m also working on an amazing project:- QuarryLink :- In Progress 
 - 🌱 I’m currently learning useful libraries about React, Next.js
 - 👯 I’m looking to collaborate on any Fullstack Web Development
